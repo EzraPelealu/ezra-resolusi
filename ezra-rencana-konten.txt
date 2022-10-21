@@ -1,4 +1,5 @@
 Rencana Konten Ezra
 -HTML
+*Tag
 -CSS
 -JavaScript
