@@ -3,4 +3,7 @@ Rencana Konten Ezra
 *Tag
 -CSS
 -JavaScript
+ *ES6
+  ^vue
 -Dasar Strukur Data
+-Python
