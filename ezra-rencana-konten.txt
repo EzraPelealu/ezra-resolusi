@@ -1,6 +1,8 @@
 Rencana Konten Ezra
 -HTML
 *Tag
+^Belajar Tag Image
 -CSS
 -JavaScript
 -Dasar Strukur Data
+-Python
